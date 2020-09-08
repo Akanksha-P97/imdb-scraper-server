@@ -12,9 +12,9 @@ git clone https://github.com/Akanksha-P97/imdb-scraper-server
 
    Install all dependencies
 
-  ```sh
-  npm install
-  ```
+   ```sh
+    npm install
+   ```
 3. **Run Server**
 
    i)Navigate to imdb-scraper-client
